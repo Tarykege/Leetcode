@@ -1,4 +1,4 @@
-class _22_REMOVE_ELEMENT  {
+class _27_REMOVE_ELEMENT  {
     public static int removeElement(int[] nums, int val) {
         int n = nums.length;
         int i=0;

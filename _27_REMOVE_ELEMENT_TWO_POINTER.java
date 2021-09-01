@@ -1,4 +1,4 @@
-public class _22_REMOVE_ELEMENT_TWO_POINTER {
+public class _27_REMOVE_ELEMENT_TWO_POINTER {
     public static int removeElement2(int[] nums, int val) {
         int k=0;
         for (int i = 0; i < nums.length; i++) {
