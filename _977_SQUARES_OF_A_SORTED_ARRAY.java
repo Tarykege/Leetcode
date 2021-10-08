@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 /**
  * _977_SQUARES_OF_A_SORTED_ARRAY
  *  -Two pointer-
