@@ -1,4 +1,3 @@
-
 public class _344_REVERSE_STRING {
     public static void reverseString(char[] s) {
         int i = 0, j = s.length - 1;

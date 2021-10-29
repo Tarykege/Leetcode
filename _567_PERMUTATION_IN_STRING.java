@@ -1,7 +1,7 @@
 public class _567_PERMUTATION_IN_STRING {
     public static boolean checkInclusion(String s1, String s2) {
         boolean check = true;
-        
+
         return check;
     }
 

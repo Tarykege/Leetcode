@@ -1,6 +1,3 @@
-/**
- * _704_BINARY_SEARCH
- */
 public class _704_BINARY_SEARCH {
     public static int search(int[] a, int key){
         int left=0;

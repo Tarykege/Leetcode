@@ -1,9 +1,5 @@
 import java.util.Arrays;
 
-/**
- * _167_TWO_SUM_II_INPUT_ARRAY_IS_SORTED
- */
-
 public class _167_TWO_SUM_II_INPUT_ARRAY_IS_SORTED {
     public static int[] twoSum(int[] a, int target) {
         int[] index = new int[2];

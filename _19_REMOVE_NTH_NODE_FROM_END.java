@@ -1,6 +1,3 @@
-/**
- * _19._REMOVE_NTH_NODE_FROM_END
- */
 public class _19_REMOVE_NTH_NODE_FROM_END {
     public class ListNode {
         int val;
@@ -28,5 +25,5 @@ public class _19_REMOVE_NTH_NODE_FROM_END {
         }
         return A[t / 2];
     }
-    
+
 }

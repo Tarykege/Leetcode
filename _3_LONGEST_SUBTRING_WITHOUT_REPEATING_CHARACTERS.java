@@ -1,9 +1,6 @@
 public class _3_LONGEST_SUBTRING_WITHOUT_REPEATING_CHARACTERS {
     public static int lengthOfLongestSubstring(String s) {
-        int[] a = new int[123];
-        int countMax = 0, countCur = 0;
-
-        return countMax;
+        return 1;
     }
 
     public static void main(String[] args) {
